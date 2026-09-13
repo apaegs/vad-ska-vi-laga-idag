@@ -1,7 +1,7 @@
 # Vad ska vi laga idag?
 
 En webbapp som håller reda på vad man lagat och när, och föreslår vad
-som är dags att laga igen. Gjord som inlämningsuppgift i Labb 2.
+som är dags att laga igen.
 
 ## Om appen
 
